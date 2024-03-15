@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nombre": "Camisa", "precio": 1000 },
+  { "id": 2, "nombre": "Pantalon", "precio": 2000 },
+  { "id": 3, "nombre": "Zapatos", "precio": 3000 },
+  { "id": 4, "nombre": "Medias", "precio": 4000 },
+  { "id": 5, "nombre": "Cinturon", "precio": 5000 },
+  { "id": 6, "nombre": "Cartera", "precio": 6000 },
+  { "id": 7, "nombre": "Reloj", "precio": 7000 },
+  { "id": 8, "nombre": "Calcetines", "precio": 8000 },
+  { "id": 9, "nombre": "Guantes", "precio": 9000 },
+  { "id": 10, "nombre": "Sombreros", "precio": 10000 }
+]
