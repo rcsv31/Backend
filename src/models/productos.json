@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Camisa",
+    "description": "Camisa de lino",
+    "price": "15",
+    "img": "Sin Imagen",
+    "code": "cal001",
+    "stock": "10",
+    "category": "Camisas",
+    "status": true,
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Pantalón Vaquero",
+    "description": "Patalón vaquero de corte recto",
+    "price": "20",
+    "img": "Sin Imagen",
+    "code": "pvr114",
+    "stock": "11",
+    "category": "Pantalones",
+    "status": true,
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "Pantalón Skinny",
+    "description": "Patalón pitillo",
+    "price": "18",
+    "img": "Sin Imagen",
+    "code": "ps125",
+    "stock": "1",
+    "category": "Pantalones",
+    "status": true,
+    "thumbnails": [],
+    "id": 3
+  },
+  {
+    "title": "Pantalón Jogger",
+    "description": "Pantalón jogger que garantiza el mejor confort",
+    "price": "12",
+    "img": "Sin Imagen",
+    "code": "jogg101",
+    "stock": "150",
+    "category": "Pantalones",
+    "status": true,
+    "thumbnails": [],
+    "id": 4
+  }
+]
